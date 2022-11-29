@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Advance Fullstack!
+## Junior Engineer at FYC Labs
 - 😄 Pronouns: she/her
 
 
